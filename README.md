@@ -1,1 +1,2 @@
-# react-calculator
+A small project calculator using react 
+ 
